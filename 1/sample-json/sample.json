@@ -1,0 +1,98 @@
+[
+  {
+    "name": "中村 享介",
+    "kana": "なかむら きょうすけ",
+    "title": "フロントエンド・エンジニア",
+    "description": "2009年、JavaScriptの会社として株式会社ピクセルグリッドを設立。\n多数のWebリニューアル、新規立ち上げを取り仕切った経験を持ち、情報設計、フロントエンド、クラウド活用、開発フローの効率化を得意とする。\nWebをより発展させるため、新しくブラウザに実装された機能の活用事例を数多く生み出しつつ、日々、クラウドサービスを利用した効率のよい制作・開発手法の試行錯誤を続けている。\n\n現在の興味はWeb Componentsを使ったマークアップの改善とJAMstack。\n\n著書に『[WebクリエイティブのためのDOM Scripting](https://www.amazon.co.jp/dp/4839922268/)』（単著：毎日コミュニケーションズ、2007年）など。ここ数年は書籍の執筆をせず、フロントエンド技術情報メディア「CodeGrid」で精力的に執筆活動を行っている。"
+  },
+  {
+    "name": "高津戸 壮",
+    "kana": "たかつど たけし",
+    "title": "フロントエンド・エンジニア",
+    "description": "Web制作会社、フリーランスを経て、株式会社ピクセルグリッドに入社。数多くのWebサイト、WebアプリケーションのHTML、CSS、JavaScript実装に携わってきた。受託案件を中心にフロント周りの実装、設計、テクニカルディレクションを行う。スケーラビリティを考慮したHTMLテンプレート設計・実装、JavaScriptを使った込み入ったUIの設計・実装を得意分野とする。\n著書に『[改訂版 Webデザイナーのための jQuery入門](http://www.amazon.co.jp/gp/product/4774169447/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4774169447&linkCode=as2&tag=pxgrid-22)』（技術評論社、2014年11月14日）がある。\n[CSS Nite 2011ベストセッション](http://cssnite.jp/archives/best-session2011.html)において、全170セッションの中から、ベスト10セッションに、[CSS Nite 2013ベストセッション]( http://cssnite.jp/archives/best-session2013.html )では、全278セッション中、ベスト20セッションに選出。"
+  },
+  {
+    "name": "小山田 晃浩",
+    "kana": "おやまだ あきひろ",
+    "title": "フロントエンド・エンジニア",
+    "description": "2006年よりWeb制作会社にてUI実装や運用業務を経験した後、2010年よりフロントエンド・エンジニアとして株式会社ピクセルグリッドに入社。これまでの経験の大半は大規模Webサイトの壊れにくいHTML/CSS設計、及び実装。また、SVG, Canvas, WebGLの扱いも得意としている。\n外部に向けたアウトプットも積極的に行っており、カンファレンスでの講演などを多数こなしている。[Tokyo WebGL Meetup](http://tokyowebglmeetup.github.io/2/)の主催者。2011年から2015年まで5連続で[Microsoft MVP for IE](https://mvp.microsoft.com/en-us/PublicProfile/4032621?fullName=Akihiro%20Oyamada)を受賞。\n著書に『[Webデザイナー/コーダーのための HTML5コーディング入門](http://www.amazon.co.jp/gp/product/4767811074/ref=as_li_ss_tl?ie=UTF8&amp;tag=pxgrid-22&amp;linkCode=as2&amp;camp=247&amp;creative=7399&amp;creativeASIN=4767811074)』（共著：エクスナレッジ、2011年3月12日）や『[CSS3デザイン　プロフェッショナルガイド](http://www.amazon.co.jp/gp/product/4839935467/ref=as_li_ss_tl?ie=UTF8&amp;tag=pxgrid-22&amp;linkCode=as2&amp;camp=247&amp;creative=7399&amp;creativeASIN=4839935467)』（共著：毎日コミュニケーションズ、2011年5月28日）』などがある。"
+  },
+  {
+    "name": "外村 奈津子",
+    "kana": "そとむら なつこ",
+    "title": "編集",
+    "description": "情報出版社に在籍中、Mac雑誌、中高年向けフリーペーパー、コラムサイト運営、健康食雑誌、グラフィック・Web技術書籍編集、IT系ニュースサイトの編集記者を経験。その後フリーランスのエディター／ライターとして独立。2011年4月より株式会社ピクセルグリッドへ入社。ピクセルグリッドが提供するフロントエンド技術情報を提供するサービス「<a href=\"http://www.codegrid.net/\">CodeGrid</a>」の編集を担当している。"
+  },
+  {
+    "name": "德田 和規",
+    "kana": "とくだ かずのり",
+    "title": "テクニカル・ディレクター",
+    "description": "HTML/CSSコーダーとしてWebに触れ、その後WebディレクターとしてJavaScriptの特性を活かしたサイトのテクニカルディレクションからUI開発までを経験。2011年にフロントエンド・エンジニアとして株式会社ピクセルグリッドへ入社。\n著書に『[jQuery逆引きマニュアル](http://www.amazon.co.jp/gp/product/4844329618/ref=as_li_ss_tl?ie=UTF8&tag=pxgrid-22&linkCode=as2&camp=247&creative=7399&creativeASIN=4844329618)』（共著：インプレスジャパン、2010年12月17日）などがある。"
+  },
+  {
+    "name": "山田 順久",
+    "kana": "やまだ ゆきひさ",
+    "title": "フロントエンド・エンジニア",
+    "description": "HTML・CSSのコーディング、後にJavaScriptの設計や実装を主業務として経験を積む。キャンペーンサイトやコーポレートサイトの、動きと操作性に工夫を凝らしたUI実装を多く手がけている。複雑なWebアプリケーション実装における、コンポーネント的な考え方を念頭においたJSの設計を得意とする。\n著書に『[JavaScriptエンジニア養成読本](http://www.amazon.co.jp/gp/product/B00QT9WFH2/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B00QT9WFH2&linkCode=as2&tag=pxgrid-22)』（共著：技術評論社、2014年12月11日）がある。"
+  },
+  {
+    "name": "宇野 陽太",
+    "kana": "うの ようた",
+    "title": "フロントエンド・エンジニア",
+    "description": "大手ソフトウェアダウンロード販売会社、ソーシャルアプリケーションプロバイダーなどで、デザイナー、マークアップ・エンジニア、フロントエンド・エンジニアとして、主にスマートフォン向けゲームの開発に携わる。2015年1月に株式会社ピクセルグリッドに入社。\nJavaScriptフレームワークを用いたアプリケーション設計・実装を得意とする。\n著書に『<a href=\"https://www.amazon.co.jp/dp/4295002577/?tag=pxgrid-22\">Angularデベロッパーズガイド 高速にかつ堅牢に動作するフロントエンドフレームワーク</a>』（共著：インプレスジャパン、2017年12月15日）などがある。"
+  },
+  {
+    "name": "坂巻 翔大郎",
+    "kana": "さかまき しょうたろう",
+    "title": "フロントエンド・エンジニア",
+    "description": "大手ソフトウェアダウンロード販売会社、Web制作会社などで、マークアップエンジニア、プログラマ、サービス企画、ディレクターを経験。2013年、株式会社ピクセルグリッドに入社。HTML、CSS、JavaScriptなどをオールラウンドに担当。とりわけ、プログラマブルなCSSの設計、実装を得意とする。\n趣味で作成したゲーム「[CSS PANIC](http://jsdo.it/GeckoTang/4rXg)」は、JavaScriptを一切使わず、HTMLとCSSのみで実装。海外サイトで紹介されるなど話題となった。"
+  },
+  {
+    "name": "森 大典",
+    "kana": "もり ひろのり",
+    "title": "フロントエンド・エンジニア",
+    "description": "大手電機メーカーを中心とした基幹系システム開発プロジェクトにSE兼プログラマとして多数参画。WEBシステム、C/S、POSレジ、無線ハンディ、汎用機(COBOL)、工場設備(シーケンス制御)、など、多数のシステム構築の実務経験を積む。2015年株式会社ピクセルグリッドへ入社。ブログにて発信しているチュートリアル、リファレンス関連の記事は幅広い層に利用されている。"
+  },
+  {
+    "name": "矢倉 眞隆",
+    "kana": "やくら まさたか",
+    "title": "フロントエンド・エンジニア",
+    "description": "Web制作会社にフロントエンド・エンジニアとして携わった後、とてもやる気のないフリーランサーを経て、2016年10月に株式会社ピクセルグリッドへ入社。Web標準技術やブラウザの実装動向に明るく、イベントでの講演や雑誌・オンラインメディアへの原稿執筆、書籍の監修・監訳などを多数手がける。最近はWebサイト・Webアプリの描画パフォーマンス向上にお熱。<a href=\"https://developers.google.com/experts/people/masataka-yakura\">Google Developer Expert</a>としても活動中。"
+  },
+  {
+    "name": "國仲 義則",
+    "kana": "くになか よしのり",
+    "title": "フロントエンド・エンジニア",
+    "description": "ECサイトで商品登録や電話対応などの傍ら、独学でWebコンテンツ制作を学び、学習で得た知見をブログで公開していた。HTML、CSS、ビュー周りのJavaScriptを主に担当。CSSアニメーション・トランジションを使用した印象的な表現を得意とする。特に、2011年と2013年の2度にわたって作成した「CSSとSVGによる曇りガラス効果」（<a href=\"http://unformedbuilding.com/articles/frosted-glass-effect-with-css-and-svg/\">Blog</a>・<a href=\"http://codepen.io/Matori/details/JFzok/\">CodePen</a>）は、似たような表現が使われているiOS 8の発表後に国内外で注目された。2017年にピクセルグリッドに入社。"
+  },
+  {
+    "name": "大杉 充",
+    "kana": "おおすぎ まこと",
+    "title": "テクニカル・ディレクター",
+    "description": "主にディレクターとして、制作工程全体の効率化を行いながら、数百サイトのコーディングに携わる。またそれらの経験を活かしセミナー講師も勤めている。漠然としたイメージや状況をうまく把握し、最適なアドバイスや提案につなげることが得意。\n著書に『[Web制作者のためのGit入門](http://www.amazon.co.jp/gp/product/4839952027/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4839952027&linkCode=as2&tag=pxgrid-22)』（共著：マイナビ、2014年6月28日）がある。"
+  },
+  {
+    "name": "丸山 陽子",
+    "kana": "まるやま ようこ",
+    "title": "編集",
+    "description": "Mac雑誌の編集者を経験後、フリーランスのエディター／ライターとして独立。パソコン系雑誌やデジタルカメラ雑誌、iPhone／iPadの初心者向け書籍などの編集や執筆に携わる。2015年にピクセルグリッドへ入社し、「[CodeGrid](http://www.codegrid.net/)」の編集を担当する。"
+  },
+  {
+    "name": "中島 直博",
+    "kana": "なかじま なおひろ",
+    "title": "フロントエンド・エンジニア",
+    "description": "JavaScriptとCSSへの興味から大学院を中退してWebの世界に飛び込む。大手デジタルコンテンツベンダーにてHTML、CSS、JavaScriptなどフロントエンド全般の担当として、主にスマートフォン向けゲームの開発に従事。2014年1月にフロントエンド・エンジニアとして株式会社ピクセルグリッドへ入社。スマートフォンサイトの実装を得意とする。\nまた、在学中から<a href=\"http://html5j.org/\">html5j</a>のスタッフとして、さまざまな技術系勉強会の運営に関わり、<a href=\"http://html5experts.jp/\">HTML5 Experts.jp</a>のコントリビューターもつとめる。"
+  },
+  {
+    "name": "小原 司",
+    "kana": "おばら つかさ",
+    "title": "UIデザイナー",
+    "description": "紙媒体をメインに制作しているデザイン事務所で広告デザインの基礎を学ぶ。2000年に独立。化粧品関連媒体の販促物を中心に、店頭グラフィック、パッケージ、POP、グッズ立案などを担当。2007年頃からWeb媒体へのデザインにも積極的に取り組み、クロスプラットフォームアプリのデザイン、画面設計、実装に携わる。現在では紙やWebの媒体にとらわれることなく、その媒体の特長を活かしたグラフィックデザインに励んでいる。\nマンセル色相環とムーン＆スペンサー配色理論を採用した配色アプリ『[HUE360](http://hue360.herokuapp.com/)』の開発を自身で行っている。\n著書に『[改訂版 Webデザイナーのための jQuery入門](http://www.amazon.co.jp/gp/product/4774169447/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4774169447&linkCode=as2&tag=pxgrid-22)』（技術評論社、2014年11月14日）がある。"
+  },
+  {
+    "name": "藤田 智朗",
+    "kana": "ふじた ともあき",
+    "title": "フロントエンド・エンジニア",
+    "description": "Web制作会社、システム開発会社を経て、主にフレームワークを用いたサーバーサイドとフロントエンドをまたいだB2Bシステムの開発に従事。そのかたわら、JavaScriptへの興味が尽きず、静岡JavaScript勉強会の開催や、JavaScript関連の公式ドキュメントの翻訳などを行う。個人の活動として、JavaScript関連のライブラリやフレームワークなどの公式ドキュメントを翻訳した<a href=\"http://js.studio-kingdom.com/\">js STUDIO</a>を運用している。"
+  }
+]
