@@ -17,11 +17,19 @@ npm 6.11.3
 
 ## サンプルの使い方
 
-### demo/1
+### 環境変数の設定
 
 - `.env.example`をコピーし、`.env`ファイルを作成します
 - `.env`内に、 Algolia の API 情報を記述します
   - `APP_ID`: Algolia の Application ID を指定します
   - `API_KEY`: Search-Only API key を指定します
   - `INDEX_NAME`: 作成した Index の名前を指定します
+  
+### demo/1
+
 - `npm start`を実行すると、検索結果の JSON が、コンソールに表示されます
+
+### demo/2
+
+- `npm start`を実行すると、ローカルサーバーが `http://localhost:1234/` で起動します
+
